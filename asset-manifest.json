@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/remotiongit/static/css/main.f5b85b3f.css",
+    "main.js": "/remotiongit/static/js/main.7ee225dd.js",
+    "index.html": "/remotiongit/index.html",
+    "main.f5b85b3f.css.map": "/remotiongit/static/css/main.f5b85b3f.css.map",
+    "main.7ee225dd.js.map": "/remotiongit/static/js/main.7ee225dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b85b3f.css",
+    "static/js/main.7ee225dd.js"
+  ]
+}
